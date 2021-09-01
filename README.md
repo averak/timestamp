@@ -1,8 +1,7 @@
 # Time Stamp
 
-![build](https://github.com/ritscc/hack-2021-1-c/workflows/build/badge.svg)
-![test](https://github.com/ritscc/hack-2021-1-c/workflows/test/badge.svg)
-![deploy](https://github.com/ritscc/hack-2021-1-c/workflows/deploy/badge.svg)
+![build](https://github.com/averak/timestamp/workflows/build/badge.svg)
+![test](https://github.com/averak/timestamp/workflows/test/badge.svg)
 ![Version 1.0](https://img.shields.io/badge/version-1.0-yellow.svg)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
@@ -71,4 +70,3 @@ This project support Swagger UI.
 
 - [miro - specification](https://miro.com/app/board/o9J_lzi-YAc=/)
 - [figma - mockup](https://www.figma.com/file/aidhNiwV3e26OlLbZ5Ke5c/TimeStamp-RCC-SummerHack-2021?node-id=0%3A1)
-- [wiki - tips](https://github.com/ritscc/hack-2021-1-c/wiki)
